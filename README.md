@@ -1,3 +1,5 @@
+You can view our website here: https://chaitanya-45.github.io/inspo-vit/
+
 We've developed a dynamic web application - titled "Inspo" - aimed at motivating users to pursue their interests, providing personalized learning resources, and guiding them towards achieving their career goals. Here are the some of the features:
 
 1. Interest Generation: We utilize interactive quizzes or surveys to discover users' interests and strengths. Recommend courses, activities, or career paths based on their responses. We also provide motivational content such as quotes, success stories, and tips to inspire and uplift users.
