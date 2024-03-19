@@ -1,3 +1,13 @@
+We've developed a dynamic web application - titled "Inspo" - aimed at motivating users to pursue their interests, providing personalized learning resources, and guiding them towards achieving their career goals. Here are the some of the features:
+
+1. Interest Generation: We utilize interactive quizzes or surveys to discover users' interests and strengths. Recommend courses, activities, or career paths based on their responses. We also provide motivational content such as quotes, success stories, and tips to inspire and uplift users.
+   
+2. Learning Facilitation: We've curate a library of educational resources, including articles, videos, tutorials, and practice exercises and organized resources by topic or skill level to facilitate targeted learning.
+   
+3. Goal Setting and Progress Tracking: The website allows users to set learning goals and track progress.
+   
+4. Salary Estimation: We've also implemented the feature of salary estimation - the salary that could be earned at each phase of their skill development.
+
 Website Preview:
 
 1. Home page:
